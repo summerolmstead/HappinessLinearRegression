@@ -1,2 +1,2 @@
 # HappinessLinearRegression
-From an analysis of what makes up how happy each country is, we explain the data with a linear regression. 
+From the Gallup World Poll, we explain how happy a country is by using the ladder score as a metric of happiness. The columns following the happiness score estimate the extent to which each of six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country. These factors explain why some countries rank higher than others which we explain by a linear regression targetting the ladder score. 
